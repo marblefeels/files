@@ -1,0 +1,26 @@
+table,th,td,tr{
+	border: 1px solid #FF5F9E;
+	border-collapse: collapse;
+	padding: 5px;
+}
+table{
+	margin-left: auto;
+	width:55%;
+	margin-right: auto;
+}
+body{
+	background-color: #060047;
+       font-family: sans-serif;	
+	
+}
+th{
+	color: #8F43EE;
+	font-weight: normal;
+}
+td{
+	color: #FFACAC;
+	text-align: center;
+}
+a:hover{
+	color: #FF5F9E;
+}
